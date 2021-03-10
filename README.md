@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is a simple website project for showing how to use Git and Github
+This is a simple website project for showing how to use Git and Github. Updating for emergency fix after stash.
 
 ## Introduction
 
