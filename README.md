@@ -16,6 +16,8 @@ Blah blah blah deployment
 
 ## How To Contribute
 
+Pleas for this repository and then...
+
 ### Copyright
 
 2014 Git.Training
